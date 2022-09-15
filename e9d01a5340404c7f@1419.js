@@ -29,9 +29,7 @@ function _6(md){return(
 md`
 ## Methodology
 
-**ETHIC APPROVAL?** 
-
-This notebook allows exploring the predicted effects of micro-nutrient intake on parameters of aging in the elderly. Emphasis is on the effects of three-way interactions between micronutrients. You can select three different micronutrients and visualize their predicted effects on one of several outcomes. These could be micronutrients you have an a priori hypotheses about, or have come across in your research/reading and are just curious to look at. Accompanying this website is an academic publication where you can read more about the underlying approach and data (Senior et al., 2022).
+This notebook allows exploring the predicted effects of micro-nutrient intake on parameters of aging in the elderly. Emphasis is on the effects of three-way interactions between micronutrients. You can select three different micronutrients and visualize their predicted effects on one of several outcomes. These could be micronutrients you have an a priori hypotheses about, or have come across in your research/reading and are just curious to look at. Accompanying this website is an academic publication where you can read more about the underlying approach and data ([Senior et al., 2022](https://doi.org/10.1186/s12915-022-01395-z)).
 
 ### Surfaces
 
